@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @heymatheists
+- 👋 Hi, I’m @vidyanshu
 - 👀 I’m interested in Mathematics
 - 🌱 I’m currently learning Mathematiics
 - 💞️ I’m looking to collaborate in Mathematics
-- 📫 You can reach me via heymatheists@gmail.com
+- 📫 You can reach me via vidyanshurpvvyv@gmail.com
 
 <!---
 heymatheists/heymatheists is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
